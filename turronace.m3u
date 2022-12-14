@@ -372,3 +372,23 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=e1f4add0803655e87b40f321a147192dae3a4
 
 #EXTINF:-1 group-title="mas deporte ace"  ,ESPN HD [US] 
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4b4907de51ec11087d4bed5876f2a0c68264f442
+
+
+#EXTINF:-1 group-title="Prime video FR ace"  ,Amazon Prime Video 1 HD
+http://127.0.0.1:6878/ace/getstream?id=5323ccadb659f7d3cb5fa2e5835c5af362e144d6
+
+#EXTINF:-1 group-title="Prime video FR ace"  ,Amazon Prime Video 3 HD
+http://127.0.0.1:6878/ace/getstream?id=7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c
+
+#EXTINF:-1 group-title="Prime video FR ace"  ,Amazon Prime Video 4 HD
+http://127.0.0.1:6878/ace/getstream?id=77697d1e2f382196dd156ed384e84c62fc7d32f7
+
+#EXTINF:-1 group-title="Prime video FR ace"  ,Amazon Prime Video 5 HD
+http://127.0.0.1:6878/ace/getstream?id=d3634268718c6e52cde4a34d0e75cffef26c1ba9
+
+#EXTINF:-1 group-title="Prime video FR ace"  ,Amazon Prime Video 6 HD
+http://127.0.0.1:6878/ace/getstream?id=26e31f091414fb036917a255b4adaf12b2f3da5b
+
+#EXTINF:-1 group-title="Prime video FR ace"  ,Amazon Prime Video 7 HD
+http://127.0.0.1:6878/ace/getstream?id=160b4b508a11f8c8b5c6e0e62ac04a437e00bb67
+
