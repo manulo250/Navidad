@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 group-title="super",super
+https://yypull.gdsth.com/live/stream-317957_ld.m3u8?auth_key=1673481672-0-0-038a210e50ecf72e6312eb3176ee6ff7
+
 
 #EXTINF:-1 group-title="dazn",DAZN F1 HD
 http://es.pp6uv.top//qw643/654grth5r/227
