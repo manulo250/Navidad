@@ -2,14 +2,8 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Supercopa 1080 Multi" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",Supercopa 1080 Multi 
-http://127.0.0.1:8000/pid/8b2c2ef8925b1c659ccd3922390617a98d9ee6e1/stream.mp4
-#EXTINF:-1 tvg-id="Supercopa 1080 Multi" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",Supercopa 1080 Multi 
-http://127.0.0.1:8000/pid/c1a176e0165da407199bb9f8fb3acc2aaab2d3d1/stream.mp4
-#EXTINF:-1 tvg-id="Supercopa 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",Supercopa 1080 
-http://127.0.0.1:8000/pid/95d9967309d74d3dbd87c66cf374666bb9da9f07/stream.mp4
-#EXTINF:-1 tvg-id="Supercopa 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",Supercopa 720 
-http://127.0.0.1:8000/pid/a16f0078ccb46ba65aaa175ad823e47ec31ab464/stream.mp4
+#EXTINF:-1 , Movistar Supercopa
+http://575542878992333643.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/333643.ts&output=hls
 
 
 #EXTINF:-1 group-title="dazn",DAZN F1 HD
