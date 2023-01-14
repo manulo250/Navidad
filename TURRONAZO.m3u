@@ -5,14 +5,18 @@
 
 
 
-#EXTINF:-1 group-title="supercopa", M. SuperCopa HD (1080P)
-http://protocol.solanaflix.com:8080/play/04PkcGEok_Y5rgGb3B74sTI3f6kA7YevV2NfsbVWePsC7RvZnsZ4WGlXKjQ-AwDQqctnhKGBilZC6GbYSTz4oQ
-#EXTINF:-1 group-title="supercopa", M. SuperCopa HD (720P)
-http://protocol.solanaflix.com:8080/play/04PkcGEok_Y5rgGb3B74sTI3f6kA7YevV2NfsbVWePsC7RvZnsZ4WGlXKjQ-AwDQeWYIzLyASnSs5aVy3p8UlA
-#EXTINF:-1 group-title="supercopa", M. SuperCopa HD (1080P) OP1
-http://protocol.solanaflix.com:8080/play/04PkcGEok_Y5rgGb3B74sTI3f6kA7YevV2NfsbVWePsC7RvZnsZ4WGlXKjQ-AwDQ0meUqhcKR1OHYawTjYSOmw
-#EXTINF:-1 group-title="supercopa", M. SuperCopa SD (OP1)
-http://protocol.solanaflix.com:8080/play/04PkcGEok_Y5rgGb3B74sTI3f6kA7YevV2NfsbVWePsC7RvZnsZ4WGlXKjQ-AwDQdF2lApXvJykELmjVOTIEUg
+#EXTINF:-1 group-title="supercopa",  MOVISTAR SUPERCOPA 
+http://575542878992333643.nicesjb.xyz/play/fe0103523/EKCBrN77pdnh/333643.ts&output=hls
+#EXTINF:-1 group-title="supercopa" , Movistar Supercopa 2
+http://575542878992333643.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/333643.ts&output=hls
+#EXTINF:-1 group-title="supercopa",M+ SUPERCOPA HD
+http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27217?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
+#EXTINF:-1  group-title="supercopa",M+ SUPERCOPA HD+
+http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27218?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
+#EXTINF:-1  group-title="supercopa",M+ SUPERCOPA FULL HD
+http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27220?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
+#EXTINF:-1 group-title="supercopa", M+ SUPERCOPA SD
+http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27219?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 
 
 #EXTINF:-1 group-title="dazn",DAZN F1 SD
